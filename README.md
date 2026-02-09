@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=sanikaap&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=sanikaap&color=blue&style=flat-square&label=Visitors)
 
 #  About Me:
  Hi, I’m Sanika!<br> I’m currently working across web development, data science, and DevOps.<br>I’m learning more about system design, architecture, and machine learning to strengthen my technical foundation.<br>I enjoy exploring new industries and building scalable solutions that improve user experience.
